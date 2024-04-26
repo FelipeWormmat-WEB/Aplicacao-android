@@ -13,7 +13,7 @@ Tela de login com os seguintes elementos:
 Campo de e-mail
 Campo de senha
 Botão de login.
-Ao pressionar o botão de login, o sistema deverá validar se os dados digitados são iguais ao seu e-mail da UniFTEC (exemplo: peterrizzon@acad.ftec.com.br) e a senha é igual à 123456. Caso os dados estiverem seguindo a regra acima, chamar a Activity "Sucesso Login". Caso os dados não estiverem seguindo a regra acima, chamar a Activity "Erro Login".
+Ao pressionar o botão de login, o sistema deverá validar se os dados digitados são iguais ao seu e-mail da UniFTEC (exemplo:algumacoisa@algumemail.com.br) e a senha é igual à 123456. Caso os dados estiverem seguindo a regra acima, chamar a Activity "Sucesso Login". Caso os dados não estiverem seguindo a regra acima, chamar a Activity "Erro Login".
 Activity Sucesso Login
 
 Tela de sucesso no login com os seguintes elementos:
